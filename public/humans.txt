@@ -1,0 +1,35 @@
+__  __ 
+\ \ \/
+ \ \
+  \/
+_______________________________________________________________________________
+
+Data Scientist | データサイエンティスト
+
+Vinicius Costa
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+twitter.com/VScientist
+github.com/vinic-costa
+
+_______________________________________________________________________________
+
+TECNOLOGIAS | テクノロジー
+
+React
+Remix
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8
